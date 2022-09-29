@@ -1,6 +1,0 @@
-//Testing to see if Phil can change
-var a = "Andy is awesome!";
-var output = "";
-
-output = a
-output;
